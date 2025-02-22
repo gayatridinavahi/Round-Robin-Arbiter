@@ -1,7 +1,7 @@
 # Round-Robin-Arbiter
 
 ## Introduction
-The Roubd-Robin Arbiter is a mechanism that grants access to a shared resource in a circular order. Each time, the priority is given to the next member who wants to access the resource.  <br/>
+The Round-Robin Arbiter is a mechanism that grants access to a shared resource in a circular order. Each time, the priority is given to the next member who wants to access the resource.  <br/>
 It is used to prevent starvation and ensures that the resource is allocated fairly to all the members.  <br/>
 
 ## State Diagram - ASM Chart
